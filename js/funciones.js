@@ -165,7 +165,6 @@ function subCarro(e) {
 function terminarCompra() {
     listaCarrito.splice(0,listaCarrito.length)
     cardsCarrito.innerHTML=""
-    console.log(listaCarrito);
     localStorage.removeItem("carrito")
 
 
