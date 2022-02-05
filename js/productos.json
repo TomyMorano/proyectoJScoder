@@ -1,0 +1,10 @@
+[{"nombre":"Monitor 23.5 Pulgadas","id":1,"precio":17500,"marca":"HP","stock":"4","contadorCarro":1,"img":"img/ImgMonitorHP.jpg"},
+{"nombre":"Mouse con Cable","id":2,"precio":600,"marca":"Logitech","stock":"13","contadorCarro":1,"img":"img/imgMouseLogitech.jpg"},
+{"nombre":"Auriculares con Microfono","id":3,"precio":2500,"marca":"Logitech","stock":10,"contadorCarro":1,"img":"img/imgAuricularesLogitechCable.jpg"},
+{"nombre":"Impresora Multifunción","id":4,"precio":25600,"marca":"HP","stock":5,"contadorCarro":1,"img":"img/imgImpresoraHP.jpg"},
+{"nombre":"Auriculares Inalambricos","id":5,"precio":9800,"marca":"Logitech","stock":7,"contadorCarro":1,"img":"img/imgAuricularesLogitechInalambricos.jpg"},
+{"nombre":"Kit Teclado Y Mouse Inalambrico Mk235","id":3400,"precio":2500,"marca":"Logitech","stock":"12","contadorCarro":1,"img":"img/imgKitTecladoMouse.jpg"},
+{"nombre":"Teclado Redragon Kumara K552","id":7,"precio":6700,"marca":"Redragon","stock":"5","contadorCarro":1,"img":"img/imgRedragonKumaraK552.jpg"},
+{"nombre":"Camara Web Webcam Hd 720p","id":8,"precio":3800,"marca":"Redragon","stock":"8","contadorCarro":1,"img":"img/imgCamaraWebWebcamHd720p.jpg"},
+{"nombre":"Mouse Logitech G502","id":9,"precio":5850,"marca":"Logitech","stock":"3","contadorCarro":1,"img":"img/imgMouseLogitechG502.jpg"},
+{"nombre":"Notebook HP Stream 14-AX112LA royal blue 14","id":10,"precio":42999,"marca":"HP","stock":"2","contadorCarro":1,"img":"img/imgNotebookHP.jpg"}]
